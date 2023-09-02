@@ -90,7 +90,7 @@ function console_menu() {
     clear
     echo -n 'CHECKUSER GL - '
     if is_installed; then
-        echo -e '\e[32m[INSTALADO]\e[0m - Versao:' $(get_version)
+        echo -e '\e[32m[INSTALADO]\e[0m'
     else
         echo -e '\e[31m[DESINSTALADO]\e[0m'
     fi
