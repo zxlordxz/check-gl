@@ -11,7 +11,7 @@ AUTHOR_EMAIL = __email__
 URL = 'https://github.com/zxlordxz/check-gl'
 LICENSE = 'MIT'
 
-setup(name='CheckerUser',
+setup(name='check-gl',
       version=VERSION,
       description=DESCRIPTION,
       author=AUTHOR,
